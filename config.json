@@ -1,0 +1,8 @@
+{
+    "epochs" : 100,
+    "csv" : null,
+    "timeStep" : 100,
+    "trainFraction" : 0.9,
+    "algorithm" : "BiLSTM_V1",
+    "batchSize" : 64
+}
